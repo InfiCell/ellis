@@ -1,6 +1,6 @@
 [submodule "build-infra"]
 	path = build-infra
-	url = git@github.com:Metaswitch/clearwater-build-infra.git
+	url = git@github.com:InfiCell/clearwater-build-infra.git
 [submodule "common"]
 	path = common
-	url = git@github.com:Metaswitch/python-common.git
+	url = git@github.com:InfiCell/python-common.git
